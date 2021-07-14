@@ -1,4 +1,4 @@
-<h1>Projeto Tabuleiro de damas 💻😉</h1>
+<h1>Projeto Jogo de Damas 💻😉</h1>
 
 <img src="notas/jogo-dama.png">
 
