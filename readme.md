@@ -1,8 +1,8 @@
 <h1>Projeto Tabuleiro de damas 💻😉</h1>
 
-<img src="">
+<img src="notas/jogo-dama.png">
 
-<a href="notas/jogo-dama">🔗Clieque aqui!</a>
+<a href="https://araujoleonardo310.github.io/jogo-de-damas/">🔗Clieque aqui!</a>
 
 ## Sobre
 
@@ -28,9 +28,7 @@
 * Análise e captura de cores da imagem refência
 * Noções de espaçamento de elementos
 * Noções de alinhamento de elementos
-
-
-
+* Noções de distanciamento entre elementos
 
 ## 🐧🖖 Créditos & 🔗 Refências 
 
